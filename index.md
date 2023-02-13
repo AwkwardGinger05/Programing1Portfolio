@@ -54,7 +54,7 @@ Using buttons to make a timeline of events
 ### Grade Calculator
 Using methods to count down
 
-![Calulation Example]()
+![Calulation Example](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/grades.png)
 
 [Source Code]()
 
