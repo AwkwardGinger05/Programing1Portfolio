@@ -49,6 +49,13 @@ Using buttons to make a timeline of events
 
 ![Timeline](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/timeline)
+
+### Grade Calculator
+Using methods to count down
+
+![Calulation Example]()
+
 [Source Code]()
 
 ## Programming 2 - Java Projects:
