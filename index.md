@@ -70,7 +70,7 @@ Using methods to count down
 ### Guessing Game
 A game to guess the correct number
 
-![Example of Game]()
+![Example of Game](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/guessing.png)
 
 [Source Code]()
 
