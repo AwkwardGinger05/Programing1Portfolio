@@ -12,7 +12,7 @@ Graphic based OOP calculator
 ### Space Game
 Single player space shooter game
 
-![Running Game]()
+![Running Game](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/spaceship.png)
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/spaceship)
 
