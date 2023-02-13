@@ -40,7 +40,7 @@ Using random method to create a screensaver
 ### EtchASketch
 Using keys to create an EtchASketch
 
-![Drawing Example]()
+![Drawing Example](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png)
 
 [Source Code]()
 
