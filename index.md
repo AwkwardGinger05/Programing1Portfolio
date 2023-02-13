@@ -3,14 +3,14 @@
 ## Programming 1 - Prosessing Projects:
 
 ### OOP Calculator
-Graphic based OOP calculator.
+Graphic based OOP calculator
 
 ![Running Calculator]()
 
 [Source Code]()
 
 ### Space Game
-Single player space shooter game.
+Single player space shooter game
 
 ![Running Game]()
 
