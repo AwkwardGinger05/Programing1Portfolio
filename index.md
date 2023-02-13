@@ -17,24 +17,28 @@ Single player space shooter game
 [Source Code]()
 
 ### Shapes
+Creating shapes and tesing random
 
 ![Creating Shapes]()
 
 [Source Code]()
 
 ### Cars
+Cars moving across the screen with random speeds
 
 ![Moving Cars]()
 
 [Source Code]()
 
 ### Screen Saver
+Using random method to create a screensaver
 
 ![Finished Screen Saver]()
 
 [Source Code]()
 
 ### EtchASketch
+Using keys to create an EtchASketch
 
 ![Drawing Example]()
 
@@ -43,18 +47,21 @@ Single player space shooter game
 ## Programming 2 - Java Projects:
 
 ### 99 Bottles
+Using methods to count down
 
 ![Final Product]()
 
 [Source Code]()
 
 ### Guessing Game
+A game to guess the correct number
 
 ![Example of Game]()
 
 [Source Code]()
 
 ### Shape Tester
+Calculate shapes volume and surface area
 
 ![Finished Calculations]()
 
