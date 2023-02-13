@@ -33,7 +33,7 @@ Cars moving across the screen with random speeds
 ### Screen Saver
 Using random method to create a screensaver
 
-![Finished Screen Saver]()
+![Finished Screen Saver](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/screenSaver.png)
 
 [Source Code]()
 
