@@ -56,7 +56,7 @@ Using methods to count down
 
 ![Calulation Example](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/grades.png)
 
-[Source Code]()
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/grade)
 
 ## Programming 2 - Java Projects:
 
