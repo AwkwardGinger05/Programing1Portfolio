@@ -4,6 +4,8 @@
 
 ## Quarter 1
 
-Timeline application
+Timeline Application
 ![Timeline application](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
+Spaceship Game
+![Shaceship Game](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/spaceship.png?raw=true)
