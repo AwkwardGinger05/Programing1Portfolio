@@ -33,4 +33,4 @@ Cars
 
 Calculator
 
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="300" height="800">
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="400" height="800">
