@@ -60,7 +60,7 @@ Pig Latin Converter
 
 Shape Tester
 
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="100" height="150">
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="25" height="50">
 
 # Chess Game
 
