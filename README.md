@@ -2,6 +2,8 @@
 
 # Programing 1 Portfolio
 
+<h1 align="center">Programing 1 Portfolio | Pamela Ferguson | eveloveswolves@gmail.com</h1>
+
 ## Semester 1
 
 Timeline Application
