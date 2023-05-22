@@ -64,6 +64,10 @@ Shape Tester
 
 # Chess Game
 
+During my Junior year at Skyline Highschool a group of 4 students (myslef included) tackled out final projcet of a chess game clone. We were unable to get any logic behind the valid moves and capturing but we were able to secure moving images, snapping, turn based actions, and array lists. My part of this project revolved around being able to add and create the images for the game as well as help around with the main code as much as I was able.
+
+link to the repository: https://github.com/9620728/Java-Group-1/tree/main
+
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ChessGame.png" width="400" height="400">
 
 Chess Pieces 
