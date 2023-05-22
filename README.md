@@ -2,7 +2,7 @@
 
 # Programing 1 Portfolio
 
-## Quarter 1
+## Semester 1
 
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
@@ -22,3 +22,7 @@ Screen Saver App
 Grade Calculator
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/grades.png)
+
+EtchASketch
+
+![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png)
