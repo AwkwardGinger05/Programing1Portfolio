@@ -60,7 +60,7 @@ Pig Latin Converter
 
 Shape Tester
 
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="300" height="400">
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="400" height="500">
 
 # Chess Game
 
@@ -72,6 +72,6 @@ link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 ### Chess Pieces 
 
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png" width="25" height="50">
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png" width="100" height="125">
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_W.png)
