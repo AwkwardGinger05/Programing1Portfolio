@@ -25,4 +25,4 @@ Grade Calculator
 
 EtchASketch
 
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png" width="700" height="500">
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png" width="800" height="500">
