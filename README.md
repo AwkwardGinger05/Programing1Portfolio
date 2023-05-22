@@ -34,3 +34,6 @@ Cars
 Calculator
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="300" height="650">
+
+
+## Semester 1
