@@ -68,4 +68,4 @@ Pig Latin Converter
 
 Shape Tester
 
-![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png) 
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="200" height="600">
