@@ -66,10 +66,12 @@ Shape Tester
 
 During my Junior year at Skyline Highschool a group of 4 students (myslef included) tackled out final projcet of a chess game clone. We were unable to get any logic behind the valid moves and capturing but we were able to secure moving images, snapping, turn based actions, and array lists. My part of this project revolved around being able to add and create the images for the game as well as help around with the main code as much as I was able.
 
-### link to the repository: https://github.com/9620728/Java-Group-1/tree/main
+link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ChessGame.png" width="400" height="400">
 
 ### Chess Pieces 
+
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png" width="200" height="400">
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_W.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_B.png) ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_W.png)
