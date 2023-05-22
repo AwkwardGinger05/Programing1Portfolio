@@ -57,3 +57,7 @@ Chess Pieces
 Random Word Generator
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/RandomWord.png)
+
+Magic 8 Ball
+
+![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Magic8Ball.png)
