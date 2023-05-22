@@ -62,7 +62,7 @@ Shape Tester
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="350" height="600">
 
-#Chess Game
+# Chess Game
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ChessGame.png" width="400" height="400">
 
