@@ -59,6 +59,7 @@ Similarly to the screen saver app we created a digital version of the classic Et
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/etchASketch)
 
+
 **Cars**
 
 Cars was another fun application we created using random classes. We created little cars out of shapes and had the code spawn a car randomly on the far left or right on the screen moving in a random horizontal line at a random speed. I chose to also randomize the colors of the cars creating a crazy and colorful image that would continously run 100 cars around at a time.
@@ -67,15 +68,20 @@ Cars was another fun application we created using random classes. We created lit
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/Cars)
 
+
 ## Semester 2
+
+**99 Bottles**
+
+99 bottles was the first application I made within the language of Java. Up until this point we were using an application called Processing to do the majority of our code within. Now we were able to work stricktly in java and I was able to create an while loop to count down the numbers from 99 to 1 using the phrase "___ bottles of beer on the wall, ___ bottles of beer. Take one down pass it around". It would loop all the way until 1 where the code could catch that it had gotten to the last number and the phrase would change "1 bottle of beer on the way, 1 bottle of beer. Take one down pass it around, no more bottles of beer on the wall".
+
+<img src="https://github.com/Akwardginger/Programing1Portfolio/assets/70280960/6261489b-ebfc-4894-9679-ec3bca605194" width="300" height="600">
+
+[Source Code]()
 
 Guesssing Game
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/guessing.png)
-
-99 Bottles
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/assets/70280960/6261489b-ebfc-4894-9679-ec3bca605194" width="300" height="600">
 
 Random Word Generator
 
