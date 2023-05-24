@@ -2,13 +2,7 @@
 
 Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
 
-<div align="center">
-  <br/>
-  <a href= [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==) >
-    <img alt="Click to see the source" height="400" src="svg-with-css.svg" width="800" />
-  </a>
-  <br/>
-</div>
+<div align="center"> [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==) </div>
 
 
 # Certifications:
