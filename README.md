@@ -2,8 +2,8 @@
 
 Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
 
-<div align="center"> Programing 1 Portfolio | Pamela Ferguson |
-  <br/>
+<div align="center"> 
+  <br/> Programing 1 Portfolio | Pamela Ferguson |
  <a href= "https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
   </a>
   <br/>
