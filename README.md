@@ -42,7 +42,7 @@ The calculator application was a fun way that my class used arrays to create a f
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/calculator)
 
 
-Screen Saver App
+**Screen Saver App**
 
 The screen saver app was an application we created early on to demonstrate how to create random movement on a screen, random color selection, and border detection. We created a random class that would have a line draw across the screen in a certain derection for a random amount of time before randomly changing the direction again and again. If the line ever reached the border of the screen we would have it move to a random location on the screen and continue to move around until the user exited the application. It ended up creating these wonderful screen savers that a lot of us used as wallpaper on our computers after we made them. 
 
@@ -51,7 +51,7 @@ The screen saver app was an application we created early on to demonstrate how t
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/screenSaver)
 
 
-EtchASketch
+**EtchASketch**
 
 Similarly to the screen saver app we created a digital version of the classic EtchASketch that we could use to draw images on our screen. We had a line that would go in the direction of our arrow keys up until the point that the user stops pressing down. It would leave a black trail behind it and would only be able to clear once the game was reset. 
 
@@ -59,20 +59,13 @@ Similarly to the screen saver app we created a digital version of the classic Et
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/etchASketch)
 
-Timeline Application
-![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
+**Cars**
 
-Shapes
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/shapes.png?raw=true" width="600" height="500">
-
-Grade Calculator
-
-![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/grades.png)
-
-Cars
+Cars was another fun application we created using random classes. We created little cars out of shapes and had the code spawn a car randomly on the far left or right on the screen moving in a random horizontal line at a random speed. I chose to also randomize the colors of the cars creating a crazy and colorful image that would continously run 100 cars around at a time.
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/cars.png" width="1000" height="500">
+
+[Source Code]()
 
 ## Semester 2
 
