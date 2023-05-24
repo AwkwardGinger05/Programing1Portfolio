@@ -24,7 +24,9 @@ link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 ## Semester 1
 
-Spaceship Game
+**Spaceship Game**
+
+The spaceship game was the first time in class we had attempted to create a fully functioning program based on the game Space Invaders. We had a mouse controlled space ship that would fire lazers on a click on the mouse or a push of a button. The lazers would be aimed at monster that decended from the top of the screen, disapearing and causing the player to lose a bit of their score. Damage, health poitions, and an increase in level difficulty was all added into the game. It was a very fun project and one that I hope to finish in the future.
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/spaceship.png?raw=true" width="500" height="500">
 
