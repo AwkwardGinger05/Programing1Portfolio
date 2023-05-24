@@ -2,6 +2,9 @@
 
 <h1 align="center">Programing 1 Portfolio | Pamela Ferguson | eveloveswolves@gmail.com</h1>
 
+**Certifications:** This year I was thankfully able to recieve my first quarter certification in basic coding knowledge and barley missed getting my language certification with a 79%
+
+
 ## Semester 1
 
 Timeline Application
