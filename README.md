@@ -57,7 +57,7 @@ Similarly to the screen saver app we created a digital version of the classic Et
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png" width="800" height="500">
 
-[Source Code]()
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/etchASketch)
 
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
