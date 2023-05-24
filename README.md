@@ -1,4 +1,5 @@
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/banner.png)
+---------------------------------------------------------------
 
 <div align="center"> 
   <br/> Programing 1 Portfolio | Pamela Ferguson |
