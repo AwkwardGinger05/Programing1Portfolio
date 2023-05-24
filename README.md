@@ -97,13 +97,20 @@ The random word generator was an interesting little game we created where the ap
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/RandomWord.png)
 
-[Source Code]()
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/RandomWord)
 
 
 Magic 8 Ball
 
+The magic 8 ball was a little game I created myself for a project we had on giving random responses from a list. I created an input file that would house all of my random lists and had the program take on after the user would input a yes or no question. It would then store those questions into my output file. It was a fun little game and really helped me to learn about input and output files.
+
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Magic8Ball.png)
+
+[Source Code]()
+
 
 Pig Latin Converter
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/PigLatin.png)
+
+[Source Code]()
