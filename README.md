@@ -2,6 +2,15 @@
 
 Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
 
+<div align="center">
+  <br/>
+  <a href="https://github.com/DavidWells/advanced-markdown/blame/master/svg-with-css.svg">
+    <img alt="Click to see the source" height="400" src="svg-with-css.svg" width="800" />
+  </a>
+  <br/>
+</div>
+
+
 # Certifications:
 This year I was thankfully able to recieve my first quarter certification in basic coding knowledge and barley missed getting my language certification with a 79%
 
