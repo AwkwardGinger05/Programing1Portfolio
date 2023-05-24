@@ -2,9 +2,9 @@
 
 Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
 
-<div align="center">
+<div align="center"> Programing 1 Portfolio | Pamela Ferguson |
   <br/>
- <a href= Programing 1 Portfolio | Pamela Ferguson | "https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
+ <a href= "https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
   </a>
   <br/>
 </div>
