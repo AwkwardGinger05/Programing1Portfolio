@@ -30,7 +30,7 @@ The spaceship game was the first time in class we had attempted to create a full
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/spaceship.png?raw=true" width="500" height="500">
 
-[Source code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/spaceship)
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/spaceship)
 
 
 **Calculator**
@@ -38,6 +38,8 @@ The spaceship game was the first time in class we had attempted to create a full
 The calculator application was a fun way that my class used arrays to create a fully functioning calculator that could receive input by a push a botton on the calculator. It would display the numbers and symbols that the user had added and would return the answer on screen after the equals button was pressed.
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="300" height="650">
+
+[Source Code]()
 
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
