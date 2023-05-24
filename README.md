@@ -1,5 +1,4 @@
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/banner.png)
----------------------------------------------------------------
 
 <div align="center"> 
   <br/> Programing 1 Portfolio | Pamela Ferguson |
@@ -7,6 +6,7 @@
   </a>
   <br/>
 </div>
+---------------------------------------------------------------
 
 # Certifications:
 This year I was thankfully able to recieve my first quarter certification in basic coding knowledge and barley missed getting my language certification with a 79%
