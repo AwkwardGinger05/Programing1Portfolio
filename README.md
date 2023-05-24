@@ -99,6 +99,7 @@ The random word generator was an interesting little game we created where the ap
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/RandomWord)
 
+---------------------------------------------------------------
 
 Magic 8 Ball
 
@@ -106,11 +107,4 @@ The magic 8 ball was a little game I created myself for a project we had on givi
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Magic8Ball.png)
 
-[Source Code]()
-
-
-Pig Latin Converter
-
-![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/PigLatin.png)
-
-[Source Code]()
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/8Ball)
