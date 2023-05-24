@@ -1,0 +1,46 @@
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Random;
+import java.util.Scanner;
+
+public class Main {
+
+  public static void main(String[] args) {
+    System.out.println(" ");
+    System.out.println("Welcome to the magic 8 ball, ask you question and it shall answer");
+    System.out.println(" ");
+
+    Scanner scanner = new Scanner(System.in);
+    System.out.print("your question: ");
+    String answer = scanner.nextLine();
+    System.out.println(" ");
+    scanner.close();
+
+    try {
+      FileWriter writer = new FileWriter("output.txt", true);
+      writer.write(answer + "\n");
+      writer.close();
+    } catch (IOException e) {
+      System.err.println("Error writing answer to file:" + e.getMessage());
+    }
+
+    Random rand = new Random();
+    ArrayList<String> questions = new ArrayList<String>();
+    try {
+      BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
+      String line = reader.readLine();
+      while (line != null) {
+        questions.add(line);
+        line = reader.readLine();
+      }
+      reader.close();
+    } catch (IOException e) {
+      System.err.println("error reading question from files:" + e.getMessage());
+    }
+
+    int index = rand.nextInt(questions.size());
+    String randomQuestion = questions.get(index);
+
+    System.out.println(randomQuestion);
+  }
+}
