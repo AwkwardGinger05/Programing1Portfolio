@@ -79,11 +79,15 @@ Cars was another fun application we created using random classes. We created lit
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/assets/70280960/6261489b-ebfc-4894-9679-ec3bca605194" width="300" height="600">
 
-[Source Code]()
+[Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/99bottles)
 
-Guesssing Game
+**Guesssing Game**
+
+The guessing was a little game we created using again that random class to create a randomized number between 1-100. The app would then prompt the user to guess a random number. If the number was too high it would say "That's too high! Try again!". If the number was too low it would say "That's too low! Try again!". And when the user gets the numbet correct it would congradulate them on guessing the correct answer. It was a fun way to introduce user imput and understand random numbers in actual java syntax.
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/guessing.png)
+
+[Source Code]()
 
 Random Word Generator
 
@@ -96,7 +100,3 @@ Magic 8 Ball
 Pig Latin Converter
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/PigLatin.png)
-
-Shape Tester
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ShapeTester.png" width="400" height="500">
