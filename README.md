@@ -33,6 +33,12 @@ The spaceship game was the first time in class we had attempted to create a full
 [Source code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/spaceship)
 
 
+**Calculator**
+
+The calculator application was a fun way that my class used arrays to create a fully functioning calculator that could receive input by a push a botton on the calculator. It would display the numbers and symbols that the user had added and would return the answer on screen after the equals button was pressed.
+
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="300" height="650">
+
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
@@ -55,11 +61,6 @@ EtchASketch
 Cars
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/cars.png" width="1000" height="500">
-
-Calculator
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/calc.png" width="300" height="650">
-
 
 ## Semester 2
 
