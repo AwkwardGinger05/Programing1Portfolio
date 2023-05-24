@@ -51,6 +51,14 @@ The screen saver app was an application we created early on to demonstrate how t
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/screenSaver)
 
 
+EtchASketch
+
+Similarly to the screen saver app we created a digital version of the classic EtchASketch that we could use to draw images on our screen. We had a line that would go in the direction of our arrow keys up until the point that the user stops pressing down. It would leave a black trail behind it and would only be able to clear once the game was reset. 
+
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png" width="800" height="500">
+
+[Source Code]()
+
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
@@ -61,10 +69,6 @@ Shapes
 Grade Calculator
 
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/grades.png)
-
-EtchASketch
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/etchASketch.png" width="800" height="500">
 
 Cars
 
