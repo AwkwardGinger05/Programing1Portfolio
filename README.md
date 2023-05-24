@@ -41,16 +41,22 @@ The calculator application was a fun way that my class used arrays to create a f
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/calculator)
 
+
+Screen Saver App
+
+The screen saver app was an application we created early on to demonstrate how to create random movement on a screen, random color selection, and border detection. We created a random class that would have a line draw across the screen in a certain derection for a random amount of time before randomly changing the direction again and again. If the line ever reached the border of the screen we would have it move to a random location on the screen and continue to move around until the user exited the application. It ended up creating these wonderful screen savers that a lot of us used as wallpaper on our computers after we made them. 
+
+<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/screenSaver.png" width="700" height="500">
+
+[Source Code]()
+
+
 Timeline Application
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
 Shapes
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/shapes.png?raw=true" width="600" height="500">
-
-Screen Saver App
-
-<img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/screenSaver.png" width="700" height="500">
 
 Grade Calculator
 
