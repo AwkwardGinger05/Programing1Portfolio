@@ -73,7 +73,8 @@ Cars was another fun application we created using random classes. We created lit
 
 **99 Bottles**
 
-99 bottles was the first application I made within the language of Java. Up until this point we were using an application called Processing to do the majority of our code within. Now we were able to work stricktly in java and I was able to create an while loop to count down the numbers from 99 to 1 using the phrase "___ bottles of beer on the wall, ___ bottles of beer. Take one down pass it around". It would loop all the way until 1 where the code could catch that it had gotten to the last number and the phrase would change "1 bottle of beer on the way, 1 bottle of beer. Take one down pass it around, no more bottles of beer on the wall". (forgive the spelling mistakes, I'm a programmer not enlgish major lol)
+99 bottles was the first application I made within the language of Java. Up until this point we were using an application called Processing to do the majority of our code within. Now we were able to work stricktly in java and I was able to create an while loop to count down the numbers from 99 to 1 using the phrase "___ bottles of beer on the wall, ___ bottles of beer. Take one down pass it around". It would loop all the way until 1 where the code could catch that it had gotten to the last number and the phrase would change "1 bottle of beer on the way, 1 bottle of beer. Take one down pass it around, no more bottles of beer on the wall". 
+(Forgive the spelling mistakes, I'm a programmer not enlgish major lol)
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/assets/70280960/6261489b-ebfc-4894-9679-ec3bca605194" width="300" height="600">
 
