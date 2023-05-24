@@ -4,15 +4,10 @@ Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/swe
 
 <div align="center">
   <br/>
- <a href="https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
+ <a href= Programing 1 Portfolio | Pamela Ferguson | "https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
   </a>
   <br/>
 </div>
-
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-
-<div align="center"> [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==) </div>
-
 
 # Certifications:
 This year I was thankfully able to recieve my first quarter certification in basic coding knowledge and barley missed getting my language certification with a 79%
