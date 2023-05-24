@@ -2,6 +2,15 @@
 
 Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
 
+<div align="center">
+  <br/>
+ <a href="https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
+  </a>
+  <br/>
+</div>
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 <div align="center"> [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==) </div>
 
 
