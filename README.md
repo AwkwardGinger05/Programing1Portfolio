@@ -10,6 +10,8 @@
 # Certifications:
 This year I was thankfully able to recieve my first quarter certification in basic coding knowledge and barley missed getting my language certification with a 79%
 
+---------------------------------------------------------------
+
 # Chess Game
 
 During my Junior year at Skyline Highschool a group of 4 students (myslef included) tackled out final projcet of a chess game clone. We were unable to get any logic behind the valid moves and capturing but we were able to secure moving images, snapping, turn based actions, and array lists. My part of this project revolved around being able to add and create the images for the game as well as help around with the main code as much as I was able.
@@ -17,12 +19,13 @@ During my Junior year at Skyline Highschool a group of 4 students (myslef includ
 link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ChessGame.png" width="400" height="400">
-
+---------------------------------------------------------------
 ### Chess Pieces 
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_W.png" width="80" height="130">
 
 ## Semester 1
+---------------------------------------------------------------
 
 **Spaceship Game**
 
@@ -32,6 +35,7 @@ The spaceship game was the first time in class we had attempted to create a full
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/spaceship)
 
+---------------------------------------------------------------
 
 **Calculator**
 
@@ -41,6 +45,7 @@ The calculator application was a fun way that my class used arrays to create a f
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/calculator)
 
+---------------------------------------------------------------
 
 **Screen Saver App**
 
@@ -50,6 +55,7 @@ The screen saver app was an application we created early on to demonstrate how t
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/screenSaver)
 
+---------------------------------------------------------------
 
 **EtchASketch**
 
@@ -59,6 +65,7 @@ Similarly to the screen saver app we created a digital version of the classic Et
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/etchASketch)
 
+---------------------------------------------------------------
 
 **Cars**
 
@@ -70,6 +77,7 @@ Cars was another fun application we created using random classes. We created lit
 
 
 ## Semester 2
+---------------------------------------------------------------
 
 **99 Bottles**
 
@@ -81,6 +89,7 @@ Cars was another fun application we created using random classes. We created lit
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/99bottles)
 
+---------------------------------------------------------------
 
 **Guesssing Game**
 
@@ -90,6 +99,7 @@ The guessing was a little game we created using again that random class to creat
 
 [Source Code](https://github.com/Akwardginger/Programing1Portfolio/tree/main/src/RandomNumber)
 
+---------------------------------------------------------------
 
 **Random Word Generator**
 
@@ -101,7 +111,7 @@ The random word generator was an interesting little game we created where the ap
 
 ---------------------------------------------------------------
 
-Magic 8 Ball
+**Magic 8 Ball**
 
 The magic 8 ball was a little game I created myself for a project we had on giving random responses from a list. I created an input file that would house all of my random lists and had the program take on after the user would input a yes or no question. It would then store those questions into my output file. It was a fun little game and really helped me to learn about input and output files.
 
