@@ -1,0 +1,68 @@
+import java.util.Random;
+import java.util.Scanner;
+
+class Main {
+  public static void main(String[] args) {
+
+    Random randP = new Random();
+    int upperboundP = 20;
+    Random randS = new Random();
+    int upperboundS = 20;
+    Random randR = new Random();
+    int upperboundR = 20;
+
+    String[] prefix = { "Macro-", "Micro-", "Mono-", "Uni-", "Bi-", "Tri-", "Poly-", "Anti-", "Sub-", "Circum-", "Dis-",
+        "Extra-", "Homo-", "Mid-", "Pro-", "Re-", "Semi-", "Un-", "Super-", "Pre-", "Mis-" };
+
+    String[] defP = { "A long ", "A small ", "One ", "One ", "Two ", "Three ", "Many ", "Against ", "Under ", "A round ",
+        "Apart from ", "Outside of a ", "The same ", "The middle of ", "Forward ", "Again ", "Partially ", "Not ",
+        "Above ", "Before ", "Wrongly " };
+
+    // ------
+
+    String[] suffix = { "-ise", "-some", "-en", "-tion", "-er", "-ment", "-ent", "-age", "-al", "-ence", "-ism",
+        "-ship", "-ness", "-ity", "-ive", "-ful", "-less", "-able", "-ous", "-ate", "-ish" };
+
+    String[] defS = { " with premium quality and in good condition ", " in a group of a certain number of people ",
+        " made of ", " preforming the action of ", " a person who has done so ", " whithin the state of ",
+        " performing the action of ", " within a group ", " of the kind of ", " the action of ", " in a condition caused by ",
+        " the job or position of ", " with the quality of ", " to a degree of ", " the action of ", " full of ", " without ",
+        " capable of being ", " possessing the qualities of ", " full of ", " beloning to " };
+
+    // -------
+
+    String[] root = { "agri", "anthropo", "astro", "bio", "cardio", "chromo", "geo", "helio", "hydro", "psycho", "pyro",
+        "script", "terra", "thermo", "fort", "mal", "port", "spect", "mort", "aqua" };
+
+    String[] defR = { "agriculture", "a person", "a star", "life", "a heart", "a color", "an earth", "a sun", "water",
+        "mental", "fire", "write", "Earth", "heat", "strong", "a bed", "carry", "to look at",
+        "death", "water" };
+
+    System.out.println(
+        "Welcome to the word generator! Please enter the number of words you'd like to generate (Limit of 100)");
+
+    Scanner scanner = new Scanner(System.in);
+    int answer = scanner.nextInt();
+    scanner.close();
+    if (answer > 100) {
+      System.out.println("That number is out of bounds");
+    } else {
+
+      for (int i = 0; i < answer; i++) {
+        int index1 = randP.nextInt(prefix.length);
+        String preDef = defP[index1];
+        String prefixRand = prefix[index1];
+        int index2 = randS.nextInt(suffix.length);
+        String sufDef = defS[index2];
+        String suffixRand = suffix[index2];
+        int index3 = randR.nextInt(root.length);
+        String rootDef = defR[index3];
+        String rootRand = root[index3];
+
+        System.out
+            .println(prefixRand + rootRand + suffixRand + "\n" + preDef + rootDef + sufDef + rootDef + "." + "\n");
+
+      }
+    }
+  }
+}
