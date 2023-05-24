@@ -1,7 +1,5 @@
 ![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/banner.png)
 
-Programing 1 Portfolio | Pamela Ferguson | [Instagram](https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==)
-
 <div align="center"> 
   <br/> Programing 1 Portfolio | Pamela Ferguson |
  <a href= "https://instagram.com/sweettooth._.creations?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
