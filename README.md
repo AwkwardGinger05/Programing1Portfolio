@@ -24,12 +24,12 @@ link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 ## Semester 1
 
-Timeline Application
-![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
-
 Spaceship Game
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/spaceship.png?raw=true" width="500" height="500">
+
+Timeline Application
+![](https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/timeline.png)
 
 Shapes
 
