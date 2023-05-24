@@ -19,7 +19,9 @@ During my Junior year at Skyline Highschool a group of 4 students (myslef includ
 link to the repository: https://github.com/9620728/Java-Group-1/tree/main
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/ChessGame.png" width="400" height="400">
+
 ---------------------------------------------------------------
+
 ### Chess Pieces 
 
 <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Pawn_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Knight_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Rook_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Bishop_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/Queen_W.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_B.png" width="80" height="130"> <img src="https://github.com/Akwardginger/Programing1Portfolio/blob/main/Images/King_W.png" width="80" height="130">
